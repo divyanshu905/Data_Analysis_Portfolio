@@ -5,10 +5,10 @@
 
 • Created a dashboard on Power BI visualizing and inspecting different elements of the dataset.
 
-![](https://github.com/divyanshu905/Divyanshu_Portfolio/blob/main/images/Screenshot%20(397).png)
+![](/images/Screenshot%20(397).png)
 
 # [Project 2: Analyze company's growth pattern and trends with SQL](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-1-6ef6028ab571)
 
 • Used MySQL to query and analyze patterns and trends within the growth of the company
 
-![](https://github.com/divyanshu905/Divyanshu_Portfolio/blob/main/images/Screenshot%20(400).png)
+![](/images/Screenshot%20(400).png)
