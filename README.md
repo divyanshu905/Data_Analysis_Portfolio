@@ -7,7 +7,7 @@
 
 ![](/images/Screenshot%20(397).png)
 
-# [Project 2: Analyze company's growth pattern and trends with SQL](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-1-6ef6028ab571)
+# [Project 2: Analyze company's growth patterns and trends with SQL](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-1-6ef6028ab571)
 
 • Used MySQL to query and analyze patterns and trends within the growth of the company
 
