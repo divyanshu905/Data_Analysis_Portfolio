@@ -5,5 +5,5 @@
 
 • Created a dashboard on Power BI visualizing and inspecting different elements of the dataset.
 
-1[](https://github.com/divyanshu905/Divyanshu_Portfolio/blob/main/images/Screenshot%20(397).png)
+![](https://github.com/divyanshu905/Divyanshu_Portfolio/blob/main/images/Screenshot%20(397).png)
 
