@@ -1,4 +1,3 @@
-# Divyanshu_Portfolio
 
 # [Project 1: Startup Funding Analysis in India (2015-2020)](https://github.com/divyanshu905/Startup_Funding)
 • Used Python and Pandas to clean the data used.
