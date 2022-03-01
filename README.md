@@ -14,7 +14,7 @@
   
   Slicing all of the  above questions according to the year as well.
 
-![](/images/Screenshot%20(397).png)
+![](/images/Screenshot%20(397).jpg)
 
 # Project 2: Analyze company's growth patterns and trends with SQL
 
