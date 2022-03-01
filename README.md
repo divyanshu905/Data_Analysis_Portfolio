@@ -18,7 +18,7 @@
 
 # Project 2: Analyze company's growth patterns and trends with SQL
 
-• [Part-1](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-1-6ef6028ab571) | [Part-2](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-2-5e8933c2f64d)
+[Part-1](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-1-6ef6028ab571) | [Part-2](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-2-5e8933c2f64d)
 
 • Used MySQL to query and analyze patterns and trends within the growth of the company
 
