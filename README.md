@@ -3,8 +3,9 @@
 # [Project 1: Startup Funding Analysis in India (2015-2020)](https://github.com/divyanshu905/Startup_Funding)
 • Used Python and Pandas to clean the data used.
 
-• Created a dashboard on Power BI visualizing and inspecting the following aspects of the startup funding in india 
-      1) Total amount invested and number of startups invested in during the period.
+• Created a dashboard on Power BI visualizing and inspecting the following aspects of the startup funding in india - 
+
+      1) Total amount invested and number of startups invested in during the period. /n
       2) Which startups had the highest amount of investment.
       3) Which investor invested the most amount of money.
       4) Industry that saw the highest amount of investment.
@@ -30,7 +31,7 @@
        6) Monthly sessions to ‘products’ page, percentage of sessions clicking through the ‘products’ page and portion of sessions that converted to an order.
        7) 4th product was made primary product in Dec 2014 before that it was only a cross sell product. Analyze sales data since then and see how each product cross sell.
 
-• Suggested areas of improvement for the business at the end
+
 
 
 
