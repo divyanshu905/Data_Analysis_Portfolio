@@ -32,4 +32,4 @@
        6) Monthly sessions to ‘products’ page, percentage of sessions clicking through the ‘products’ page and portion of sessions that converted to an order.
        7) 4th product was made primary product in Dec 2014 before that it was only a cross sell product. Analyze sales data since then and see how each product cross sell.
 
-![](/images/Screenshot%20(400).png)
+![](/images/Screenshot%20(400).jpg)
