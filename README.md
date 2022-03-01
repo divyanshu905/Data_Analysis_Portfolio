@@ -11,8 +11,7 @@
       4) Industry that saw the highest amount of investment.
       5) Sources of investment by the amount invested.
       6) Cities where the startups were based out off.
-  
-  Slicing all of the  above questions according to the year as well.
+      7) Ability to slice all of the above questions according to the year.
 
 ![](/images/Screenshot%20(397).jpg)
 
