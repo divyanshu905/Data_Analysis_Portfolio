@@ -13,7 +13,7 @@
       6) Cities where the startups were based out off.
       7) Ability to slice all of the above questions according to the year.
 
-![](/images/Screenshot%20(397).jpg)
+![](/images/Screenshot%20(397)%20(1).jpg)
 
 # Project 2: Analyze company's growth patterns and trends with SQL
 
