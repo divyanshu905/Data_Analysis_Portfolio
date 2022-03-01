@@ -5,7 +5,7 @@
 
 • Created a dashboard on Power BI visualizing and inspecting the following aspects of the startup funding in india - 
 
-      1) Total amount invested and number of startups invested in during the period. /n
+      1) Total amount invested and number of startups invested in during the period.
       2) Which startups had the highest amount of investment.
       3) Which investor invested the most amount of money.
       4) Industry that saw the highest amount of investment.
@@ -23,6 +23,7 @@
 • Used MySQL to query and analyze patterns and trends within the growth of the company
 
 • Analyzed the following questions - 
+
        1) Overall sessions and order volume on the website, trended by the quarter for the life of the business.
        2) Quarterly figures for session-to-order conversion rate, revenue per order, and revenue per session.
        3) Quarterly view of orders from Gsearch nonbrand, Bsearch nonbrand, brand search overall, organic search, and direct type-in.
@@ -30,9 +31,5 @@
        5) Revenue and margin by product along with total revenue and margin monthly.
        6) Monthly sessions to ‘products’ page, percentage of sessions clicking through the ‘products’ page and portion of sessions that converted to an order.
        7) 4th product was made primary product in Dec 2014 before that it was only a cross sell product. Analyze sales data since then and see how each product cross sell.
-
-
-
-
 
 ![](/images/Screenshot%20(400).png)
