@@ -2,7 +2,7 @@
 # [Project 1: Startup Funding Analysis in India (2015-2020)](https://github.com/divyanshu905/Startup_Funding)
 • Used Python and Pandas to clean the data used.
 
-• Created a dashboard on Power BI visualizing and inspecting the following aspects of the startup funding in india - 
+• Created a dashboard on Power BI and found the following insights -
 
        1) Around 38 Billion Dollars invested in 2343 unique startups during the period.
        2) E-commerce saw the highest amount of funding raised (36.5%) with Flipkart at the top.
