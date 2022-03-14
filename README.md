@@ -4,13 +4,11 @@
 
 • Created a dashboard on Power BI visualizing and inspecting the following aspects of the startup funding in india - 
 
-      1) Total amount invested and number of startups invested in during the period.
-      2) Which startups had the highest amount of investment.
-      3) Which investor invested the most amount of money.
-      4) Industry that saw the highest amount of investment.
-      5) Sources of investment by the amount invested.
-      6) Cities where the startups were based out off.
-      7) Ability to slice all of the above questions according to the year.
+       1) Around 38 Billion Dollars invested in 2343 unique startups during the period.
+       2) E-commerce saw the highest amount of funding raised (36.5%) with Flipkart at the top.
+       3) Westbridge Capital invested the highest amount of money with 38 Billion Dollars invested 
+       according to the dataset.
+       4) Bengaluru startups raised the most amount of money during the period.
 
 ![](/images/Screenshot%20(397)%20(1).jpg)
 
