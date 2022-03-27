@@ -1,4 +1,7 @@
 
+
+
+
 # [Data Cleaning & Visualization: Startup Funding Analysis in India (2015-2020)](https://github.com/divyanshu905/Startup_Funding)
 • Used Python and Pandas to clean the data used.
 
@@ -10,19 +13,26 @@
        according to the dataset.
        4) Bengaluru startups raised the most amount of money during the period.
 
-![](./images/Screenshot%20(397)%20(1).jpg)
+![](./images/Screenshot%20(397)%20(1).jpg =250x250)
+
+
+
 
 ## [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](https://github.com/divyanshu905/Masculinity_survey_analysis)
 • Conducted exploratory data analysis to find insights on how ideas of masculinity differed within different demographies.
+
+
+
 
 ## [Power BI Dashboard Visualization: Performance Summary Dashboard](https://github.com/divyanshu905/PowerBI_Performance_Summary_Dashboard)
 • Made performance dashboard to summarize company's revenue trends, product and stores performance
 
 ![](./images/Maven_report_img.png)
 
-# Driving Insights with SQL: Analyze company's growth patterns and trends with SQL
 
-[Part-1](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-1-6ef6028ab571) | [Part-2](https://medium.com/@divyanshugoyal160/analyzing-trends-and-patterns-in-growth-of-a-company-with-sql-part-2-5e8933c2f64d)
+
+
+# [Driving Insights with SQL: Analyze company's growth patterns and trends with SQL](https://gist.github.com/divyanshu905/71e2eef193365a34ebaac71cb9a5acc1)
 
 • MySQL was used to query and analyse patterns and trends in order to determine the company's growth patterns.
 
