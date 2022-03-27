@@ -19,6 +19,8 @@
 
 ## [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](https://github.com/divyanshu905/Masculinity_survey_analysis)
 • Conducted exploratory data analysis to find insights on how ideas of masculinity differed within different demographies.
+       
+<img src="./images/Screenshot%20(427).png" width="600" height="400">
 
 
 
@@ -43,4 +45,5 @@
        5) Revenue and margin by product along with total revenue and margin monthly.
        6) Analyzed products that sell well together to optimize cross selling.
        
-![](./images/Screenshot%20(400).jpg)
+
+<img src="./images/Screenshot%20(400).jpg" width="600" height="400">
