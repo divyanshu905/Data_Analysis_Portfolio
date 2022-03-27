@@ -10,7 +10,7 @@
        according to the dataset.
        4) Bengaluru startups raised the most amount of money during the period.
 
-![](/images/Screenshot%20(397)%20(1).jpg)
+![](./images/Screenshot%20(397)%20(1).jpg)
 
 ## [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](https://github.com/divyanshu905/Masculinity_survey_analysis)
 • Conducted exploratory data analysis to find insights on how ideas of masculinity differed within different demographies.
@@ -18,7 +18,7 @@
 ## [Power BI Dashboard Visualization: Performance Summary Dashboard](https://github.com/divyanshu905/PowerBI_Performance_Summary_Dashboard)
 • Made performance dashboard to summarize company's revenue trends, product and stores performance
 
-![](/images/Maven_report_img.png)
+![](./images/Maven_report_img.png)
 
 # Driving Insights with SQL: Analyze company's growth patterns and trends with SQL
 
@@ -35,4 +35,4 @@
        5) Revenue and margin by product along with total revenue and margin monthly.
        6) Analyzed products that sell well together to optimize cross selling.
        
-![](/images/Screenshot%20(400).jpg)
+![](./images/Screenshot%20(400).jpg)
