@@ -26,7 +26,7 @@
 ## [Power BI Dashboard Visualization: Performance Summary Dashboard](https://github.com/divyanshu905/PowerBI_Performance_Summary_Dashboard)
 • Made performance dashboard to summarize company's revenue trends, product and stores performance
 
-<img src="./images/Maven_report_img.png" width="500" height="400">
+<img src="./images/Maven_report_img.png" width="600" height="400">
 
 
 
