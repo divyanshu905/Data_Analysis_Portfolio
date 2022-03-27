@@ -19,6 +19,7 @@
 
 ## [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](https://github.com/divyanshu905/Masculinity_survey_analysis)
 • Conducted exploratory data analysis to find insights on how ideas of masculinity differed within different demographies.
+• Used Python, Matplotlib, Seaborn & Pandas to conduct in details EDA.
        
 <img src="./images/Screenshot%20(427).png" width="600" height="400">
 
