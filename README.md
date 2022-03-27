@@ -14,7 +14,7 @@
        4) Bengaluru startups raised the most amount of money during the period.
 
 ![](./images/Screenshot%20(397)%20(1).jpg =250x250)
-
+<img src="./images/Screenshot%20(397)%20(1).jpg" width="250" height="250">
 
 
 
