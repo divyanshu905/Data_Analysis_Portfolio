@@ -46,4 +46,4 @@
        6) Analyzed products that sell well together to optimize cross selling.
        
 
-<img src="./images/Screenshot%20(400).jpg" width="600" height="400">
+<img src="./images/Screenshot%20(428).png" width="600" height="400">
