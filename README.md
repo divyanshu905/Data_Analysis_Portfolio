@@ -43,35 +43,55 @@ This website is to showcase my skills, projects and articles that I have posted 
 
 
 
-### [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](https://github.com/divyanshu905/Masculinity_survey_analysis)
-• Conducted exploratory data analysis to find insights on how ideas of masculinity differed within different demographies.
+### Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography
 
-• Used Python, Matplotlib, Seaborn & Pandas to conduct in detailed EDA.
+**Code:** [`analyzing_survey_dataset_with_python`](https://github.com/divyanshu905/Masculinity_survey_analysis/blob/master/Masculinity_Survey.ipynb)
+
+**Description:** The dataset used for the analysis was collected from the survey conducted by FiveThirtyEight on the background of #metoo movement. Python library Seaborn was used to analyze and visualize some of the questions collected in the survey that highlighted men's ideas and notions regarding masculinity. The project overall helped in gaining some insight into how men are still fractured about their role in society.
+
+**Skills:** Data Visualization
+
+**Technology:** Python, Pandas, Seaborn
+
+**Finding:** The project was an exploratory in nature and gave insights into how the ideas of masculinity is still fractured amongst men.
        
 <img src="./images/Screenshot%20(427).png" width="600" height="400">
 
 
 
+### Power BI Dashboard Visualization: Performance Summary Dashboard
 
-### [Power BI Dashboard Visualization: Performance Summary Dashboard](https://github.com/divyanshu905/PowerBI_Performance_Summary_Dashboard)
-• Made performance dashboard to summarize company's revenue trends, product and stores performance
+**Github Repo:** [`github_repo_for_powerbi_dashboard`](https://github.com/divyanshu905/PowerBI_Performance_Summary_Dashboard)
+
+**Description:** The project served as a capstone project for one of the courses on Power BI. The setup was to provide your manager with the sales dashboard visualizing key performance indicators that could be used by the entire sales department to view the progress of the department. The data tables given were first cleaned and preprocessed in Power BI Query Editor and then normalized with the help of Power BI model view. Finally it was visualized using Power BI various features including filters, buttons, DAX measures and different visualizing element present in Power BI
+
+**Skills:** Data Cleaning, Data Visualization, Data Modelling, ETL
+
+**Technology:** Power BI
+
+**Result:** Insights into best performing products and regions. Targets achieved for all the regions however total returns exceeded previous months benchmark.
 
 <img src="./images/Maven_report_img.png" width="600" height="400">
 
 
 
-### [Driving Insights with SQL: Analyze company's growth patterns and trends with SQL](https://gist.github.com/divyanshu905/71e2eef193365a34ebaac71cb9a5acc1)
+### Driving Insights with SQL: Analyze company's growth patterns and trends with SQL
 
-• MySQL was used to query and analyse patterns and trends in order to determine the company's growth patterns.
+**Code:** [`SQL_code`](https://gist.github.com/divyanshu905/71e2eef193365a34ebaac71cb9a5acc1)
 
-• Derived the suggestions down below - 
-       
-       1) Identified the opportunity to launch a new product.
-       2) Suggested strategy to optimize marketing spend through focusing on successful channels.
-       3) Revealed possibilities of improvement by understanding revenue trend.
-       4) Analyzed website's customer funnel to find areas leading to high bounce rate.
-       5) Revenue and margin by product along with total revenue and margin monthly.
-       6) Analyzed products that sell well together to optimize cross selling.
+**Description:** The project setup was a hypothetical for a capstone project of MySQL course. The setup was that CEO of an e-commerce gift company has asked you to provide him with some insights into how has their company fared since its inception 2 years ago so that he can use them in his presentation to investors. MySQL was used to query required data and Power BI was used to visualize the results. Various aspects of the business including its sales, marketing, and cross selling products were analyzed to find the underlaying growth trends.
+
+**Skills:** Data Manipulation, Data Querying, Data Visualization
+
+**Technology:** Power BI, MySQL
+
+**Result:**
+  - Identified the opportunity to launch a new product.
+  - Suggested strategy to optimize marketing spend through focusing on successful channels.
+  - Revealed possibilities of improvement by understanding revenue trend.
+  - Analyzed website's customer funnel to find areas leading to high bounce rate.
+  - Revenue and margin by product along with total revenue and margin monthly.
+  - Analyzed products that sell well together to optimize cross selling.
        
 
 <img src="./images/Screenshot%20(428).png" width="600" height="400">
