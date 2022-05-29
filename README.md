@@ -1,3 +1,13 @@
+#Divyanshu Goyal - Data Analysis Portfolio
+
+##About
+
+Hi, I am Divyanshu Goyal! I am a student currently in my final year pursuing BBA from Mahraja Agrasen Institute of Management Studies. I have the necessary skillsets to analyse data with the help of tools like Python, MySQL, Excel and Power BI. I am looking for job opportunities for a data analyst role to apply my learnings and create insights for the business. Always looking to further my skillsets in the field by learning new techniques and methods for analysing data and making predictions. 
+
+This website is to showcase my skills, projects and articles that I have posted about my learnings. 
+
+##Table of contents
+
 
 
 
