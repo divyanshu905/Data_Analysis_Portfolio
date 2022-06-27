@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I am Divyanshu Goyal! I am a student currently in my final year pursuing BBA from Mahraja Agrasen Institute of Management Studies. I have the necessary skillsets to analyse data with the help of tools like Python, MySQL, Excel and Power BI.  I'm constantly trying to improve my field abilities by learning new strategies and methods for analysing data and producing predictions. I'm seeking for a data analyst position where I can put my skills to use and provide business insights.
+Hi, I am Divyanshu Goyal! I am a student currently in my final year pursuing BBA from Mahraja Agrasen Institute of Management Studies. I have the necessary skillsets to analyse data with the help of tools like Python, MySQL, Excel and Power BI.  I'm constantly trying to improve my field abilities by learning new strategies and methods for analysing data and producing predictions. I'm seeking for a Business/Data Analyst position where I can put my skills to use and provide business insights.
 
 This website is to showcase my skills, projects and articles that I have posted about my learnings. 
 
