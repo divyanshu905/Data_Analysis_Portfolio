@@ -9,6 +9,7 @@ This website is to showcase my skills, projects and articles that I have posted 
 ## Table of contents
 1. [About](#about)
 2. [Portfolio Projects](#portfolio-projects)
+   - [Pre IPL 2023 Teams Visualization with Tableau]
    - [Driving Insights with SQL: Analyze company's growth patterns and trends with SQL](#driving-insights-with-sql-analyze-companys-growth-patterns-and-trends-with-sql)
    - [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](#exploratory-data-analysis-with-python-analyzing-survey-dataset-on-ideas-of-masculinity-within-different-demography)
    - [Power BI Dashboard Visualization: Performance Summary Dashboard](#power-bi-dashboard-visualization-performance-summary-dashboard)
@@ -24,6 +25,18 @@ This website is to showcase my skills, projects and articles that I have posted 
 
 
 ## Portfolio Projects
+
+### Pre IPL 2023 Teams Visualization with Tableau
+
+**Code:** [`Selenium Code`](https://github.com/divyanshu905/IPL_webscraping)
+
+**Dashboard Link:** [`Tableau`](https://public.tableau.com/app/profile/divyanshu2651/viz/IPL2023_Analysis/Dashboard2?publish=yes)
+
+**Description:** Being a massive cricket fan I ventured out to analyze and visualize how IPL 2023 teams are composed and what kind of players garnered the most attention during the auction. The data for the project was collected via web scraping with help of Selenium and it was stored in a Google Sheet with the help of Google Sheet API. Data included overall available T20 record and not just IPL record for each player and visualized using Tableau.
+
+**Skills:** Data Visualization, Data Collection, Data Cleaning
+
+**Technology:** Selenium (Python), Google Sheet API, Tableau
 
 ### Driving Insights with SQL: Analyze company's growth patterns and trends with SQL
 
