@@ -9,7 +9,7 @@ This website is to showcase my skills, projects and articles that I have posted 
 ## Table of contents
 1. [About](#about)
 2. [Portfolio Projects](#portfolio-projects)
-   - [Pre IPL 2023 Teams Visualization with Tableau]
+   - [Pre IPL 2023 Teams Visualization with Tableau](#pre-ipl-2023-teams-visualization-with-tableau)
    - [Driving Insights with SQL: Analyze company's growth patterns and trends with SQL](#driving-insights-with-sql-analyze-companys-growth-patterns-and-trends-with-sql)
    - [Exploratory Data Analysis with Python: Analyzing survey dataset on ideas of masculinity within different demography](#exploratory-data-analysis-with-python-analyzing-survey-dataset-on-ideas-of-masculinity-within-different-demography)
    - [Power BI Dashboard Visualization: Performance Summary Dashboard](#power-bi-dashboard-visualization-performance-summary-dashboard)
